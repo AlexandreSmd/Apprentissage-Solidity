@@ -6,3 +6,6 @@ Smart Contract d'une banque
 
 Exo2
 ERC20 TokenAS
+
+Exo3
+Interface 
